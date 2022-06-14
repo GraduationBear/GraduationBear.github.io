@@ -1,0 +1,546 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/DME/Desktop/Nouveau dossier/ATOLL_3",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "uoqP3wQfCYM52sXCQkiREuB3CE+KHHKx9QoGnR3Gos8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.AntennaArray.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.AntennaArray.html",
+          "hash": "aRSlecC8WncqiR37+qMPAoFnKn4/zKcz1AROqJ+iXZ0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.App.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.App.html",
+          "hash": "EHOtqSu8HX19k5Bhm2W+Hy6F6mghVgl2Pg9jtrzhcDA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Data.WeatherForecast.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Data.WeatherForecast.html",
+          "hash": "kke30Tk5dmZjbaS2s6OIDTqg5MXDnHUnh2RN7XErFY0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Data.WeatherForecastService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Data.WeatherForecastService.html",
+          "hash": "VIEoscSj7xRG2vP9wwu/VeXp4RsDGABb7ccI0g9UBnw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Data.html",
+          "hash": "S/UF2ZIG1j2x7dueyqqpL3YA3QMqrHXypQpavj3VQg4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Graphiques.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Graphiques.html",
+          "hash": "Ih0RKcazT9hd8B0HH1UGVwf9iDFxlObX3zogHKofR+k="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Item.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Item.html",
+          "hash": "B+wkd1hOIdnOG3ZUd/PaYbZISTyCQdesrQt9Q8FGAac="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Items.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Items.html",
+          "hash": "uCYJNGEl9qriP55A+XI0zfJgImcWNFLPKsCsA45elSI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Limite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Limite.html",
+          "hash": "Bu42bQ+hE+fVTnH0grjBTs5HAJzBW+7lma+lSXpBmjg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.MainActivity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.MainActivity.html",
+          "hash": "X188Z6jvWE2eae1aHbmrmqdD1c0KHoGciZwtOWW8UA4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.MainApplication.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.MainApplication.html",
+          "hash": "u85PoxUXWk/7ygqWm8bCd0zIvVoEOfiV4h1fFYcSaPc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.MainPage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.MainPage.html",
+          "hash": "f2yxxXzqS3jqjsUMOfFIsXP/BFlJF+YBRFZHtza6imI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.MauiProgram.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.MauiProgram.html",
+          "hash": "l6HmNpk2ojMS7a+uCjjmNMGbP/hJLGH8XlAqvP1Z54E="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Point.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Point.html",
+          "hash": "bESJJWob8AyQ0fhCQXERE5lbjQKP6qpIKBE/aB0/a/I="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Resource.Animation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Resource.Animation.html",
+          "hash": "dk0VCPfw3LESNgeFqzv7aCp41XiGm9FZv0tvMPitXzk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Resource.Animator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Resource.Animator.html",
+          "hash": "k238tNHTf4qXadPV/b4BpkLCN6JgJedgCOTh0AcY1MQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Resource.Attribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Resource.Attribute.html",
+          "hash": "V0HoafXfle/Ijy8v2RbqotP+ZvFqXVp0uSN0bMbpoQs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Resource.Boolean.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Resource.Boolean.html",
+          "hash": "1yqYNKmPRqkS1w4dx7cAEuY70MBwPj3APDnXJ4w/AQA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Resource.Color.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Resource.Color.html",
+          "hash": "+/LwKPuMRYgCLCIXcq4hc8Z6d3sHyQCUdxAAR6+Ik88="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Resource.Dimension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Resource.Dimension.html",
+          "hash": "1Z5+UMZ1IRJuP/Ex5ZCYSWCX/ApCZZHintX0k1n/U+0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Resource.Drawable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Resource.Drawable.html",
+          "hash": "5Sbq+Y1QmdaJTlFSwmMKRt53MtT46WCvrQcDXfdnmn0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Resource.Id.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Resource.Id.html",
+          "hash": "3rSJj0Gnl2iWnuZYGSUmhDJIMbbd5U2vuhREQ+ci868="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Resource.Integer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Resource.Integer.html",
+          "hash": "yKGxwCJOxnePMxF2Fv3ilVtlcg/lI+rM6YPTqXRg25s="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Resource.Interpolator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Resource.Interpolator.html",
+          "hash": "gTa9PyIEcuCSd9pWzMBHD5jkoC8D1yj80uALFQIDyHQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Resource.Layout.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Resource.Layout.html",
+          "hash": "qyvgOCRc+wU4JnHlqYCZ1kZg22BwNk+FTG3u0EamScQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Resource.Menu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Resource.Menu.html",
+          "hash": "2K8Pvqjp2s5R0EJKg7jDfdn1+G6QwEskVupm79c0gtg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Resource.Plurals.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Resource.Plurals.html",
+          "hash": "gKdQTwiiTrMM/Kfplf5KfVU+7LWiBOXlEh0hr7XCKEc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Resource.String.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Resource.String.html",
+          "hash": "seBLsaob3Qij5M3lvtqGCSleTGXQGv30l/6UJtk2LX8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Resource.Style.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Resource.Style.html",
+          "hash": "mCpXux6KJrZ+pmvepqJFR+SMs470sWEE61SAmEPZNoE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Resource.Styleable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Resource.Styleable.html",
+          "hash": "FnUzXV+5l3z9LaYmxaFX8wWq5mgeE8pxIRdNHmn1eGc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Resource.Xml.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Resource.Xml.html",
+          "hash": "X62aKb7rkjv+TEWgVTBRlmOfLQt5Cjpw16QmK4w+clM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.Resource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.Resource.html",
+          "hash": "hn7Pa0ZYBgOzDBTkhGQQMn2dzw6XCSWnnS6rtPTybSI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.SeriesData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.SeriesData.html",
+          "hash": "w/RbUanR+trn7uvIYWaDcGwKH7DjmkLO3Fc91hsv4nU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ATOLL_3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ATOLL_3.html",
+          "hash": "ELeuE6jjWCAjhDT95YsiZolDzVHS9PujyDWLKyj0ll8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "k3iZjjZLRsQxYEjytNM85p9jXKfiYbYKWxB7OaStOcc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "el9oH0GFWozNBd0GGpmCOfe9NxqWJHtrXrF/T5nwXgw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "daxO+y70Qje3FlGpUAbEWadwMJmHvLgKJ0PgiJv296I="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "x5soNdmhObdLLSMRfl2oHn7Mv3ddfyXeIawVl/zdZC8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "WSuRrYiGwKKMbtdG9z8W9fXmLoCyTnGg9AxbPKLXm2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 4
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 34,
+          "skipped_file_count": 34
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
